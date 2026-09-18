@@ -1,0 +1,12 @@
+﻿# Obsidian: cache e sessioni locali
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backups/
+.obsidian/cache/
+.obsidian/indexeddb/
+
+# File di sistema
+Thumbs.db
+desktop.ini
+.DS_Store
