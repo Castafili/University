@@ -111,7 +111,8 @@ Metodo POST -> Non idempotente (ad esempio, per una pagina di acquisto, il tasto
 	- Manipolazione DOM + aggiornamento dinamico della pagina
 	- Interagire con server (i.e. AJAX)
 
-
+## Per giovedi
+Scrivere una piccola pagina web con tag: h1, p
 
 
 Source: [[00 - Programmazione Web e Mobile]]
