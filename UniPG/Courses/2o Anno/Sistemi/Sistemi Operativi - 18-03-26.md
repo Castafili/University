@@ -4,7 +4,6 @@ tags:
   - UniPG
   - sistemi
   - teoria
-  - review
 ---
 ## Elaborazione Concorrente
 

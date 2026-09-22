@@ -3,7 +3,6 @@ date: 24/02/26
 tags:
   - UniPG
   - sistemi
-  - review
   - lab
 ---
 ## Informazioni

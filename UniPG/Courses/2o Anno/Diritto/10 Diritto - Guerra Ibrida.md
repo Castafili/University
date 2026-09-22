@@ -3,7 +3,6 @@ date: 18/03/26
 tags:
   - UniPG
   - diritto
-  - review
 ---
 ## Intro a Artificial Intelligence
 

@@ -2,7 +2,6 @@
 date: 04/03/26
 tags:
   - UniPG
-  - review
   - sistemi
   - teoria
 ---

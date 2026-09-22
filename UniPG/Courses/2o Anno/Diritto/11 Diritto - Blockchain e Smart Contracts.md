@@ -3,7 +3,6 @@ date: 25/03/26
 tags:
   - UniPG
   - diritto
-  - review
 ---
 >[!info] Blockchain e smart contracts:
 >- Tecnologia Blockchain

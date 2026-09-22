@@ -3,7 +3,6 @@ date: 16/03/26
 tags:
   - UniPG
   - diritto
-  - review
 ---
 >[!INFO] Sesto libro del CC dedicato alla *tutela* dei diritti
 

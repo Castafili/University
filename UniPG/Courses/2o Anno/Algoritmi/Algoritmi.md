@@ -3,7 +3,6 @@ date: 23/02/26
 tags:
   - UniPG
   - algoritmi
-  - review
 ---
 Heap è un albero binario in rappresentazione implicita. L'albero è rappresentato in un array
 

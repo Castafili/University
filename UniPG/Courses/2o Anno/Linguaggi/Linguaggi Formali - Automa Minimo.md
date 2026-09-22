@@ -3,7 +3,6 @@ date: 20/03/26
 tags:
   - UniPG
   - compilatori
-  - review
 ---
 >[!INFO] Equivalenza:
 >**Equivalenza** è una relazione riflessiva, simmetrica e transitiva

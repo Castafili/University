@@ -3,7 +3,6 @@ date: 02/03/26
 tags:
   - diritto
   - UniPG
-  - review
 ---
 # Fondamenti di Cybersicurezza, Gestione del Rischio e Normativa
 

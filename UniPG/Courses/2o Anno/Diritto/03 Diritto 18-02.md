@@ -2,7 +2,6 @@
 date: 18/02/26
 tags:
   - diritto
-  - review
   - UniPG
 ---
 ---

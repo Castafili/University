@@ -3,7 +3,6 @@ date: 11/02/26
 tags:
   - UniPG
   - diritto
-  - review
 ---
 ---
 ## Soggetti di diritto e la regolazione dell'IA

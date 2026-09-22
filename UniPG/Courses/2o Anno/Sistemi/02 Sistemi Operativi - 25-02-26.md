@@ -3,7 +3,6 @@ date: 25/02/26
 tags:
   - UniPG
   - sistemi
-  - review
   - teoria
 ---
 Sistema operativo:
