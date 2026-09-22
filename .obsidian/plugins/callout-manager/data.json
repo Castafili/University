@@ -1,0 +1,37 @@
+{
+  "callouts": {
+    "custom": [
+      "dropdown"
+    ],
+    "settings": {
+      "dropdown": [
+        {
+          "changes": {
+            "icon": "question-mark-glyph"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

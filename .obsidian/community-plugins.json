@@ -1,5 +1,7 @@
 [
   "obsidian-latex-suite",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "callout-manager"
 ]
