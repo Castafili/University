@@ -5,13 +5,21 @@ tags:
 professor: Gervasi
 credits: "9"
 ---
-## Notes
+## Notes Module 1
 
 ```dataview
 table date
-from "UniPG/Courses/3o Anno/Architettura Reti e Internet" AND #reti 
+from "UniPG/Courses/3o Anno/Architettura Reti e Internet" AND #reti AND #mod1 
 ```
 
+## Notes Module 2
+
+```dataview
+table date
+from "UniPG/Courses/3o Anno/Architettura Reti e Internet" AND #reti AND #mod2 
+```
+
+--- 
 ## To Process
 ```dataview
 list

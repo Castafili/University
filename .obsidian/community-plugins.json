@@ -3,5 +3,6 @@
   "obsidian-git",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "callout-manager"
+  "callout-manager",
+  "templater-obsidian"
 ]
