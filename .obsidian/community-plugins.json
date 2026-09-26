@@ -4,5 +4,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "callout-manager",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-discordrpc"
 ]
