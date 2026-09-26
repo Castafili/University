@@ -5,7 +5,6 @@ tags:
   - cybersecurity
   - review
 ---
-
 # Introduzione alla Sicurezza Informatica
 
 > [!INFO] Informazioni sul Corso
