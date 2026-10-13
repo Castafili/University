@@ -3,7 +3,7 @@ tags:
   - UniPG
   - course
 professor: Rossi
-credits: 6+6
+credits: "12"
 ---
 ## Notes
 

@@ -2,6 +2,7 @@
 tags:
   - UniPG
   - course
+  - passed
 professor: Stefanelli
 credits: "6"
 ---

@@ -3,7 +3,7 @@ tags:
   - UniPG
   - course
 professor: Bistarelli
-credits:
+credits: "6"
 ---
 ## Notes
 

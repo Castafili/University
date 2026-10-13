@@ -2,7 +2,7 @@
 tags:
   - UniPG
   - course
-professor: Taticchi
+professor: Franzoni
 credits: "6"
 ---
 ## Notes

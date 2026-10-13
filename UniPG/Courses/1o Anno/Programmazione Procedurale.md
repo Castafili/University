@@ -4,6 +4,7 @@ credits: "9"
 tags:
   - UniPG
   - course
+  - passed
 ---
 ## Notes
 

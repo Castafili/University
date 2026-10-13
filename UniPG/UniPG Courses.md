@@ -14,5 +14,5 @@ from #review & #UniPG
 ## Current Courses
 ```dataview
 table credits, professor
-from #course & #UniPG  
+from #course & #UniPG & -#passed
 ```

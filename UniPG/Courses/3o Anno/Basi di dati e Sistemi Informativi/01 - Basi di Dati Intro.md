@@ -13,7 +13,7 @@ tags:
 - **Ufficio docente:** 6° piano, con prenotazione tramite email
 - **Modalità d'esame:** Due compiti di esonero
   1. 09/11/2026 (durante la lezione)
-  2. 18/11/2026
+  2. 18/12/2026
 
 ---
 
